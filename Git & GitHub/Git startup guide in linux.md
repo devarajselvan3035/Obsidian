@@ -1,0 +1,4 @@
+- Debain => `sudo apt install git`; Fedora => `sudo dnf install git`
+- First install git on your linux system based on distro.
+- Create git working folder(directory) inside the linux using `mkdir [dirname]`
+- Run `git init` 

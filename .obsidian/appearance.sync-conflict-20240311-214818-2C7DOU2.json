@@ -1,0 +1,18 @@
+{
+  "accentColor": "",
+  "cssTheme": "Spectrum",
+  "translucency": false,
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Command_pallete",
+    "tab_color",
+    "Externel_link",
+    "Heading",
+    "heading_space_reduce",
+    "center_H1",
+    "Callouts",
+    "Table",
+    "divider"
+  ]
+}

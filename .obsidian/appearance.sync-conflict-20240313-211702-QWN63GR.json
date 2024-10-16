@@ -1,0 +1,19 @@
+{
+  "accentColor": "",
+  "cssTheme": "Things",
+  "translucency": false,
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "tab_color",
+    "center_H1",
+    "Command_pallete",
+    "divider",
+    "heading_space_reduce",
+    "Table",
+    "Heading",
+    "Externel_link",
+    "Blockquote",
+    "Callouts"
+  ]
+}

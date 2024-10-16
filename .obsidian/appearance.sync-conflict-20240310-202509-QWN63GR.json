@@ -1,0 +1,19 @@
+{
+  "accentColor": "#687a5c",
+  "cssTheme": "Spectrum",
+  "translucency": false,
+  "baseFontSize": 18,
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "Command_pallete",
+    "tab_color",
+    "Externel_link",
+    "Heading",
+    "heading_space_reduce",
+    "center_H1",
+    "Callouts",
+    "divider",
+    "Table",
+    "Blockquote"
+  ]
+}

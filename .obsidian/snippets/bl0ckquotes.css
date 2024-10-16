@@ -1,0 +1,21 @@
+/*Editor*/
+.cm-quote {
+    color: var(--text-normal) !important;
+  }
+
+/*Readmode*/
+ .markdown-preview-view blockquote {
+    background-color: var(--code-background);
+    border: 0px solid;
+    border-color: var(--color-accent) !important;
+    border-right-width: 2px !important;
+    border-bottom-width: 3px;
+    border-radius: 0 8px 8px 0;
+    font-family: ;
+    color: ; 
+    font-size: ;
+    line-height: ;
+    margin: 10 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

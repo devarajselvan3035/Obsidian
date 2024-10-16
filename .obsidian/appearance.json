@@ -1,0 +1,18 @@
+{
+  "accentColor": "#808080",
+  "cssTheme": "Catppuccin",
+  "translucency": false,
+  "baseFontSize": 18,
+  "theme": "system",
+  "enabledCssSnippets": [
+    "tab_color",
+    "center_H1",
+    "bl0ckquotes",
+    "codeblock",
+    "image_zoomer",
+    "typocraphy"
+  ],
+  "textFontFamily": "GeistMono Nerd Font Propo",
+  "interfaceFontFamily": "GeistMono Nerd Font",
+  "monospaceFontFamily": "GeistMono Nerd Font Mono"
+}

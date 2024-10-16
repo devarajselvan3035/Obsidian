@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "99e2798b8a7ce5c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5bad93502f1d89d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38e12fe6ed13d9da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Best YouTube Channels 🎥📡.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e41d675afbe569d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hadoop Edureka.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0cc7f94e430ed0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure Adminstrator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9404f294a5693202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5690fa24820a5fad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spark/Spark, The definition Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8754040c15e7d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git & GitHub/GitHub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "232d4efe732d51ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "House Details.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f333a74d4b6fcfb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Engineer.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3621cdb1a37bc198",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d0db183c452ca4f1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "28346ba8d2f3ee98",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "warehouse",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d314b1a7f6ce3273",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "93a8804242c97477",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "74f0da773e5568d6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "649fa3f5aec0d1a3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Git & GitHub/GitHub.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "eef864278df9708b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Git & GitHub/GitHub.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "89f3ac59cf1891f9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Git & GitHub/GitHub.md"
+          }
+        }
+      },
+      {
+        "id": "b42c977904e59c28",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e8754040c15e7d0a",
+  "lastOpenFiles": [
+    "Algorithums/Types of Algorithms.md",
+    "Git & GitHub/Git & GitHub.md",
+    "Algorithums",
+    "image/Git & GitHub-1728482341272.jpeg",
+    "image/Git & GitHub-1728482320865.jpeg",
+    "Pasted image 20241006104759.png",
+    "Pasted image 20241006095905.png",
+    "image/Git & GitHub-1728482300276.jpeg",
+    "Screenshot_2024-06-11-15-56-51-65_58f827c9f8cd1dffd850cad9571f3f22.jpg",
+    "Python Projects.md",
+    "Azure Databricks cookbook.md",
+    "Linux/100 Common Docker Errors & Solutions.md",
+    "Python/Python.md",
+    "Linux/Chmod 777 💀💀💀.md",
+    "Daily Hints/A guide to data visualization - LogRocket Blog.md",
+    "Python/Regex.md",
+    "Linux",
+    "Books/DEEP WORK.md",
+    "Apache Hive 🐘🐝.md",
+    "Work ethics.md",
+    "Best YouTube Channels 🎥📡.md",
+    "Food Recipes 🥘.md",
+    "Devaraj.md",
+    "Spark/Spark, The definition Guide.md",
+    "image/Spark, The definition Guide-1720675992574.jpeg",
+    "image/Spark, The definition Guide-1720674440442.jpeg",
+    "image/Spark, The definition Guide-1720674363686.jpeg",
+    "image/Spark, The definition Guide-1720591849541.jpeg",
+    "Spark/Spark Operations groupByKey() & reduceByKey().md",
+    "image",
+    "Spark",
+    "Data Engineer.md",
+    "Books/Azure Data Engineering Cookbook.md",
+    "Daily Hints",
+    "Azure Integration Runtime in ADF.md",
+    "Books/Fundamentals of Data Engineering.md",
+    "Interview Questions/Data Analyst.md",
+    "Interview Questions/Databricks.md",
+    "Azure Adminstrator.md",
+    "House Details.md",
+    "Books/Statistics.md",
+    "Interview Questions",
+    "Sql",
+    "Python",
+    "YouTube Courses",
+    "vertopal.com_tutorialspoint.com-Hadoop - Quick Guide/vertopal_5933d41166ff4bccbb7aa3e0a84c04b7/media"
+  ]
+}

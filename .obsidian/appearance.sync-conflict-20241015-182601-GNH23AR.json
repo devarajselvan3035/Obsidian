@@ -1,0 +1,19 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "translucency": false,
+  "baseFontSize": 18,
+  "theme": "system",
+  "enabledCssSnippets": [
+    "tab_color",
+    "center_H1",
+    "typocraphy",
+    "image_zoomer",
+    "Iterative Rainbow Folder Backgrounds",
+    "codeblock",
+    "bl0ckquotes"
+  ],
+  "textFontFamily": "GeistMono Nerd Font Propo",
+  "interfaceFontFamily": "GeistMono Nerd Font",
+  "monospaceFontFamily": "GeistMono Nerd Font Mono"
+}
